@@ -1,3 +1,4 @@
 # jeffreywlinn.github.io
 
-This is a work in progress for portfolio
+BS Software Development December 2021
+This is a work in progress to show my portfolio of projects. 
