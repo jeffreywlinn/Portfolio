@@ -1,5 +1,5 @@
 BS Software Development
-#
+
 Below is a summary of each coursework project item in the repository listed above.
 #
 
