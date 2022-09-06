@@ -18,7 +18,7 @@ RENTAPP - JLINN:
 
 Source code and javadocs for RentApp application project
 #
-#
+
 C482 JAVADOCS:
 
 Javadocs for project application: addPartController, addProductController, mainController, modifyPartController, modifyProductController
