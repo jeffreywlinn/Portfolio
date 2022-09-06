@@ -2,8 +2,7 @@ BS Software Development
 #
 Below is a summary of each coursework project item in the repository listed above.
 #
-![Ship Rock](31833779864_38b5c9d52e_n.jpg)
-#
+
 C868 CAPSTONE TASK A:
 
 The RentApp software helps scheduling of appointments across multiple timezones, assigns contacts, and avoids overlaps
