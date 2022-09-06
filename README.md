@@ -5,10 +5,10 @@ Below is a summary of each coursework project item in the repository listed abov
 ![Ship Rock](31833779864_38b5c9d52e_n.jpg)
 #
 C868 CAPSTONE TASK A:
-#
+
 The RentApp software helps scheduling of appointments across multiple timezones, assigns contacts, and avoids overlaps
 #
-#
+
 C868 CAPSTONE TASK C:
 #
 The RentApp application design and testing, unit test plan, source code, and user guide 
