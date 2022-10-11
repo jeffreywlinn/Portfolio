@@ -3,12 +3,12 @@ BS Software Development
 Below is a summary of each coursework project item in the repository listed above.
 #
 
-C868 CAPSTONE TASK A, C, RENTAPP:
+C868 CAPSTONE TASK A, C, RENTAPP (Java, IntelliJ IDEA, SceneBuilder, MySQL)
 
 This is the design, development, and implementation of my fully-functional software application that was approved by my course mentor. My app helps scheduling of appointments across multiple timezones, assigns contacts, and avoids appointment overlaps. Requirements: inheritence, polymorphism, encapsulation, search functionality, data manipulation, reports, exception controls, login feature, scalability, and user-friendly GUI. Includes a comprehensive summary addressing the business problem, existing gaps, SDLC, implementation plans, validation, design and testing, unit test plan, source code, and user guide. Source code and javadocs for Capstone application project.
 #
 
-C196 MOBILE APP DEVELOPMENT
+C196 MOBILE APP DEVELOPMENT (Java, IntelliJ IDEA, SceneBuilder, Android Studio, SQLite)
 
 A multiple-screen mobile application built using SQLite database and emulator for a student to interactively track terms, courses associated with each term, and assessment(s) associated with each course. The application allows users to enter, edit, and delete term, course, and assessment data. It provides summary and detailed views of courses for each term and provides alerts for upcoming performance and objective assessments. It provides user ability for optional notes and to send as messages via SMS. Utilizes vertical scrolling, action bars, portrait and landscape layouts, buttons, input controls, titles, icons, activities, intents, and alerts.
 #
