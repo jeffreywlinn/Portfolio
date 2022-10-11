@@ -3,19 +3,14 @@ BS Software Development
 Below is a summary of each coursework project item in the repository listed above.
 #
 
-C868 CAPSTONE TASK A:
+C868 CAPSTONE TASK A & C:
 
-The RentApp software helps scheduling of appointments across multiple timezones, assigns contacts, and avoids overlaps
-#
-
-C868 CAPSTONE TASK C:
-
-The RentApp application design and testing, unit test plan, source code, and user guide 
+This is the design, development, and implementation of my fully-functional software application that was approved by my course mentor. My app helps scheduling of appointments across multiple timezones, assigns contacts, and avoids appointment overlaps. Requirements: inheritence, polymorphism, encapsulation, search functionality, data manipulation, reports, exception controls, login feature, scalability, and user-friendly GUI. Includes a comprehensive summary addressing the business problem, existing gaps, SDLC, implementation plans, validation, design and testing, unit test plan, source code, and user guide.
 #
 
 RENTAPP - JLINN:
 
-Source code and javadocs for RentApp application project
+Source code and javadocs for Capstone application project
 #
 
 C482 JAVADOCS:
